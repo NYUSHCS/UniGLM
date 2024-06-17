@@ -10,3 +10,9 @@ To train your own UniGLM with data, there are two steps.
 
 ### Model Training
 Use run_Mix.sh to train your own model. Datasets and folder names can be changed.
+
+### Embedding Generation
+Use run_emb.sh and run_emb_transfer.sh to generation embeddings.
+
+### GNNs
+Use run_GNN.sh to run evaluations on different GNNs.
