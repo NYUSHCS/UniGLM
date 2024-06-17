@@ -6,7 +6,7 @@ Representation learning on text-attributed graphs (TAGs), where nodes are repres
 ![architecture](https://github.com/NYUSHCS/UniGLM/blob/main/img/UniGLMpipeline.png)
 
 ## 🚀Quick Start
-To train your own UniGLM with data, there are two steps.
+To train UniGLM with your own datasets, there are two steps.
 
 ### Model Training
 Use run_Mix.sh to train your own model. Datasets and folder names can be changed.
