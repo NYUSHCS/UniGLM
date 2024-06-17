@@ -16,3 +16,6 @@ Use run_emb.sh and run_emb_transfer.sh to generate embeddings.
 
 ### GNNs Evaluation
 Use run_GNN.sh to run evaluations on different GNNs.
+
+## Reproducibility 
+Model weight is available at [deltayf/UniGLM](https://huggingface.co/deltayf/UniGLM)
