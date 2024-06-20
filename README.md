@@ -19,3 +19,17 @@ Use run_GNN.sh to run evaluations on different GNNs.
 
 ## Reproducibility 
 Model weight is available at [deltayf/UniGLM](https://huggingface.co/deltayf/UniGLM).
+
+## Citation
+If you find this repo useful, please star the repo and cite:
+
+```bibtex
+@article{fang2024uniglm,
+  title={UniGLM: Training One Unified Language Model for Text-Attributed Graphs},
+  author={Yi Fang and Dongzhe Fan and Sirui Ding and Ninghao Liu and Qiaoyu Tan},
+  journal={arXiv preprint arXiv:2406.12052},
+  year={2024},
+  url={https://arxiv.org/abs/2406.12052}
+}
+
+```
